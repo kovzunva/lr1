@@ -1,7 +1,2 @@
 Зміна на гілці dev!
 Зміна master
-Зміна master
-
-
-Зміна master
-master
